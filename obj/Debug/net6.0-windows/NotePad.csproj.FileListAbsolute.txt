@@ -1,0 +1,17 @@
+E:\Programming\NotePad\bin\Debug\net6.0-windows\NotePad.exe
+E:\Programming\NotePad\bin\Debug\net6.0-windows\NotePad.deps.json
+E:\Programming\NotePad\bin\Debug\net6.0-windows\NotePad.runtimeconfig.json
+E:\Programming\NotePad\bin\Debug\net6.0-windows\NotePad.dll
+E:\Programming\NotePad\bin\Debug\net6.0-windows\NotePad.pdb
+E:\Programming\NotePad\obj\Debug\net6.0-windows\NotePad.csproj.AssemblyReference.cache
+E:\Programming\NotePad\obj\Debug\net6.0-windows\NotePad.Form1.resources
+E:\Programming\NotePad\obj\Debug\net6.0-windows\NotePad.csproj.GenerateResource.cache
+E:\Programming\NotePad\obj\Debug\net6.0-windows\NotePad.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\NotePad\obj\Debug\net6.0-windows\NotePad.AssemblyInfoInputs.cache
+E:\Programming\NotePad\obj\Debug\net6.0-windows\NotePad.AssemblyInfo.cs
+E:\Programming\NotePad\obj\Debug\net6.0-windows\NotePad.csproj.CoreCompileInputs.cache
+E:\Programming\NotePad\obj\Debug\net6.0-windows\NotePad.dll
+E:\Programming\NotePad\obj\Debug\net6.0-windows\refint\NotePad.dll
+E:\Programming\NotePad\obj\Debug\net6.0-windows\NotePad.pdb
+E:\Programming\NotePad\obj\Debug\net6.0-windows\NotePad.genruntimeconfig.cache
+E:\Programming\NotePad\obj\Debug\net6.0-windows\ref\NotePad.dll
